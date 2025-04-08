@@ -2,7 +2,7 @@
 
 # Leslie Knope - Bootstrap Resume Project
 
-![Leslie Knope Resume Screenshot](https://i.imgur.com/JQqySfE.jpg)
+![Leslie Knope Resume Screenshot](https://tse3.mm.bing.net/th?id=OIP.WRCUgAMOdLashEAyuUKf1gHaJ4&pid=Api&P=0&h=180)
 
 A responsive, Bootstrap-powered resume website for Leslie Knope from Parks and Recreation. This project demonstrates modern web development techniques using HTML5, CSS3, and Bootstrap 5.
 
