@@ -1,0 +1,39 @@
+body {
+    padding-top: 56px;
+    background-color: #f8f9fa;
+}
+
+.jumbotron {
+    background-color: #4b6cb7;
+    color: white;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+.skill-badge {
+    margin: 2px;
+    font-size: 0.9rem;
+}
+
+.nav-link.active {
+    font-weight: bold;
+}
+
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .jumbotron {
+        padding: 1.5rem 1rem;
+    }
+    .display-4 {
+        font-size: 2.5rem;
+    }
+}
