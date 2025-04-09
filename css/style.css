@@ -10,10 +10,6 @@ body {
     margin-bottom: 2rem;
 }
 
-.portfolio-item {
-    margin-bottom: 30px;
-}
-
 .skill-badge {
     margin: 2px;
     font-size: 0.9rem;
@@ -21,6 +17,7 @@ body {
 
 .nav-link.active {
     font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.1);
 }
 
 .carousel-item img {
@@ -28,7 +25,6 @@ body {
     object-fit: cover;
 }
 
-/* Responsive adjustments */
 @media (max-width: 768px) {
     .jumbotron {
         padding: 1.5rem 1rem;
